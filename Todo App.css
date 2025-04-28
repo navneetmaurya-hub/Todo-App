@@ -1,0 +1,18 @@
+h1{
+    display: flex;
+   justify-content: center;
+}
+input{
+    height:20px;
+    width: 300px;
+    margin-left: 38%;
+}
+button{
+    height:25px;
+    width:90px;
+    color: red;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+}
